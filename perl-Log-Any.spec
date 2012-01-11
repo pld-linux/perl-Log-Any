@@ -8,13 +8,13 @@
 Summary:	Log::Any -- Bringing loggers and listeners together
 #Summary(pl.UTF-8):	
 Name:		perl-Log-Any
-Version:	0.12
+Version:	0.14
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Log/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	eaab5035d69af58eab72e19140c5f246
+# Source0-md5:	7def42641574ab11589252a4f7ad2c00
 # generic URL, check or change before uncommenting
 #URL:		http://search.cpan.org/dist/Log-Any/
 BuildRequires:	perl-devel >= 1:5.8.0
