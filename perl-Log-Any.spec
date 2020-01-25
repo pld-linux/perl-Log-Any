@@ -4,7 +4,6 @@
 
 %define		pdir	Log
 %define		pnam	Any
-%include	/usr/lib/rpm/macros.perl
 Summary:	Log::Any -- Bringing loggers and listeners together
 Name:		perl-Log-Any
 Version:	1.707
