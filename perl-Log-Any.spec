@@ -6,14 +6,14 @@
 %define		pnam	Any
 Summary:	Log::Any -- Bringing loggers and listeners together
 Name:		perl-Log-Any
-Version:	1.707
+Version:	1.718
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Log/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	610f81b7b74859a105790347472dce34
-URL:		http://search.cpan.org/dist/Log-Any/
+Source0:	https://www.cpan.org/modules/by-module/Log/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	27d0f3a1e0ce7d1bdfdf652eae00af72
+URL:		https://search.cpan.org/dist/Log-Any/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
