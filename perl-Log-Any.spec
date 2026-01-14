@@ -7,7 +7,7 @@
 Summary:	Log::Any -- Bringing loggers and listeners together
 Name:		perl-Log-Any
 Version:	1.718
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
